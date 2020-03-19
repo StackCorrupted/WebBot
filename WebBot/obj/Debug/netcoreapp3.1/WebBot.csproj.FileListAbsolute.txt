@@ -1,0 +1,14 @@
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.exe
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.csprojAssemblyReference.cache
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfoInputs.cache
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfo.cs
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.deps.json
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.json
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.dev.json
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.dll
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.pdb
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xbox0\source\repos\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.csproj.CopyComplete
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.dll
+C:\Users\xbox0\source\repos\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.pdb
